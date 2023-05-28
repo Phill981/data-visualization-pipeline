@@ -8,4 +8,4 @@ To get the program running follow these steps:
 
 > python3 main.py
 
-The final workbook is included within the 'excel' fodler
+The final workbook is included within the 'excel' folder
