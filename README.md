@@ -7,3 +7,5 @@ To get the program running follow these steps:
 3. run the python script with
 
 > python3 main.py
+
+The final workbook is included within the 'excel' fodler
