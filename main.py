@@ -41,5 +41,5 @@ for i, data in enumerate(os.listdir('./data')):
         main_df = main_df.append(df, ignore_index=True)
         print(f"{i + 1}/{count}", len(main_df.index))
 #writing dataset to csv
-main_df.to_csv('merged_data.csv')
+main_df.to_csv('./excel/merged_data.csv')
 
